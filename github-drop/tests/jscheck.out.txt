@@ -1,0 +1,2 @@
+[jscheck.py] exitcode=0
+done
